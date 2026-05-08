@@ -1,29 +1,32 @@
-HOOD=ROBN
-SNDK=SNXX
-EWY=KORU
-INTC=INTW
-COIN=CONL
-NBIS=NBIG
-CRWV=CWVX
-CRCL=CRCG
-FLY=FLYT
-TSLA=TSLL
-AMD=AMDL
-TSM=TSMX
-ORCL=ORCX
-NVDA=NVDL
-MU=MUU
-LITE=LITX
-RKLB=RKLX
-APPL=AAPU
-OKLO=OKLL
-SMR=SMU
-META=METU
-AVGO=AVGX
-AMZN=AMZU
-COHR=COHX
-BABA=BABX
-GDX=GDXU
-TER=TERG
-MSTR=MSTU
-NOK=LNOK
+[
+  {"code": "QQQ","bullLeverageCode": "TQQQ","bearLeverageCode": "SQQQ"},
+  {"code": "HOOD","bullLeverageCode": "ROBN","bearLeverageCode": "HOOZ"},
+  {"code": "SNDK", "bullLeverageCode": "SNXX", "bearLeverageCode": "SNDQ"},
+  {"code": "EWY", "bullLeverageCode": "KORU", "bearLeverageCode": ""},
+  {"code": "INTC", "bullLeverageCode": "INTW", "bearLeverageCode": ""},
+  {"code": "COIN", "bullLeverageCode": "CONL", "bearLeverageCode": ""},
+  {"code": "NBIS", "bullLeverageCode": "NBIG", "bearLeverageCode": ""},
+  {"code": "CRWV", "bullLeverageCode": "CWVX", "bearLeverageCode": ""},
+  {"code": "CRCL", "bullLeverageCode": "CRCG", "bearLeverageCode": ""},
+  {"code": "FLY", "bullLeverageCode": "FLYT", "bearLeverageCode": ""},
+  {"code": "TSLA", "bullLeverageCode": "TSLL", "bearLeverageCode": ""},
+  {"code": "AMD", "bullLeverageCode": "AMDL", "bearLeverageCode": ""},
+  {"code": "TSM", "bullLeverageCode": "TSMX", "bearLeverageCode": ""},
+  {"code": "ORCL", "bullLeverageCode": "ORCX", "bearLeverageCode": ""},
+  {"code": "NVDA", "bullLeverageCode": "NVDL", "bearLeverageCode": ""},
+  {"code": "MU", "bullLeverageCode": "MUU", "bearLeverageCode": ""},
+  {"code": "LITE", "bullLeverageCode": "LITX", "bearLeverageCode": ""},
+  {"code": "RKLB", "bullLeverageCode": "RKLX", "bearLeverageCode": ""},
+  {"code": "APPL", "bullLeverageCode": "AAPU", "bearLeverageCode": ""},
+  {"code": "OKLO", "bullLeverageCode": "OKLL", "bearLeverageCode": ""},
+  {"code": "SMR", "bullLeverageCode": "SMU", "bearLeverageCode": ""},
+  {"code": "META", "bullLeverageCode": "METU", "bearLeverageCode": ""},
+  {"code": "AVGO", "bullLeverageCode": "AVGX", "bearLeverageCode": ""},
+  {"code": "AMZN", "bullLeverageCode": "AMZU", "bearLeverageCode": ""},
+  {"code": "COHR", "bullLeverageCode": "COHX", "bearLeverageCode": ""},
+  {"code": "BABA", "bullLeverageCode": "BABX", "bearLeverageCode": ""},
+  {"code": "GDX", "bullLeverageCode": "GDXU", "bearLeverageCode": ""},
+  {"code": "TER", "bullLeverageCode": "TERG", "bearLeverageCode": ""},
+  {"code": "MSTR", "bullLeverageCode": "MSTU", "bearLeverageCode": ""},
+  {"code": "NOK", "bullLeverageCode": "LNOK", "bearLeverageCode": ""}
+]
