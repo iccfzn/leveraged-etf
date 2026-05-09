@@ -4,7 +4,7 @@
   {"code": "SNDK", "bullLeverageCode": "SNXX", "bearLeverageCode": "SNDQ"},
   {"code": "EWY", "bullLeverageCode": "KORU", "bearLeverageCode": ""},
   {"code": "INTC", "bullLeverageCode": "INTW", "bearLeverageCode": ""},
-  {"code": "COIN", "bullLeverageCode": "CONL", "bearLeverageCode": ""},
+  {"code": "COIN", "bullLeverageCode": "CONL", "bearLeverageCode": "CONI"},
   {"code": "NBIS", "bullLeverageCode": "NBIG", "bearLeverageCode": ""},
   {"code": "CRWV", "bullLeverageCode": "CWVX", "bearLeverageCode": ""},
   {"code": "CRCL", "bullLeverageCode": "CRCG", "bearLeverageCode": ""},
